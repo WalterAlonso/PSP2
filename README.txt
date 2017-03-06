@@ -29,7 +29,7 @@ $git clone https://github.com/WalterAlonso/PSP2.git
 
 ** Ejecute el programa:
 
-	java -cp target/PSP2_Ecos_CalculoEstimacionMetodoProbeAyB-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.calculoMetodoProbe.controlador.Probe "Nombre archivo.txt"
+	java -cp target/Ecos_CalculoEstimacionMetodoProbeAyB-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.calculoMetodoProbe.controlador.Probe "Nombre archivo.txt"
 
 ** Heroku:
 
