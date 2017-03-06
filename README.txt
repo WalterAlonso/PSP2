@@ -2,7 +2,7 @@
 Codigo curso: CSOF5101 - 2017.
 Nombre curso: CONCEPTOS AVANZADOS EN INGENIERIA DE SOFTWARE.
 Nombre de la tarea: Assignment Kit for Program 2.
-Fecha de envío de la tarea: 6 Marzo 2017 (03:03), GithHub: 6 Marzo 2017. (23:23)
+Fecha de envío de la tarea: 6 Marzo 2017 (03:03), GithHub: 6 Marzo 2017. (03:12)
 Autor: Walter Javier Alonso Roa
 /************************************************************/
 
@@ -12,7 +12,7 @@ Primero se debe colocar el archivo a procesar en la carpeta "ArchivoProcesar". (
 el codigo fuente se encuentra en el repo: https://github.com/WalterAlonso/PSP2.git
 
 ** Ambiente de ejecucion:
-Este programa fue realizado con JRE 1.7 en S.O 7.
+Este programa fue realizado con JRE 1.8 en S.O 7.
 Debe tener instalado Maven
 
 
@@ -25,7 +25,11 @@ $git clone https://github.com/WalterAlonso/PSP2.git
 
 ** Ejecucion maven
 
-	 mvn clean install
+	mvn clean install
+
+** Documentacion 
+	
+	mvn site
 
 ** Ejecute el programa:
 
