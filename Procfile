@@ -1,1 +1,1 @@
-web: java -cp target/Ecos_CalculoEstimacionMetodoProbeAyB-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.calculoMetodoProbe.controlador.Probe "MetodoA_ProxyEstimado_TamanioActual.txt"
+web: java -cp target/Ecos_CalculoEstimacionMetodoProbeAyB-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.calculoMetodoProbe.controlador.Probe "ArchivoVacio.txt"
