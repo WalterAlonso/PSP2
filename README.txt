@@ -2,7 +2,7 @@
 Codigo curso: CSOF5101 - 2017.
 Nombre curso: CONCEPTOS AVANZADOS EN INGENIERIA DE SOFTWARE.
 Nombre de la tarea: Assignment Kit for Program 2.
-Fecha de envío de la tarea: 6 Marzo 2017 (03:03), GithHub: 6 Marzo 2017. (03:12)
+Fecha de envío de la tarea: 6 Marzo 2017 (23:11), GithHub: 6 Marzo 2017. (03:12)
 Autor: Walter Javier Alonso Roa
 /************************************************************/
 
@@ -36,4 +36,5 @@ $git clone https://github.com/WalterAlonso/PSP2.git
 	java -cp target/Ecos_CalculoEstimacionMetodoProbeAyB-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.calculoMetodoProbe.controlador.Probe "Nombre archivo.txt"
 
 ** Heroku:
-
+	
+	https://aqueous-harbor-51423.herokuapp.com/
