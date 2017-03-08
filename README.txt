@@ -2,7 +2,7 @@
 Codigo curso: CSOF5101 - 2017.
 Nombre curso: CONCEPTOS AVANZADOS EN INGENIERIA DE SOFTWARE.
 Nombre de la tarea: Assignment Kit for Program 2.
-Fecha de envío de la tarea: 6 Marzo 2017 (23:11), GithHub: 6 Marzo 2017. (03:12)
+Fecha de envío de la tarea: 7 Marzo 2017 (23:11), GithHub: 6 Marzo 2017. (03:12)
 Autor: Walter Javier Alonso Roa
 /************************************************************/
 
